@@ -1,0 +1,10 @@
+name: FeedAndHealUI
+version: 1.0
+main: Cmd\Main
+author: TheOriginDeveloppement
+website: https://github.com/TheOriginDeveloppement
+api: 3.0.0
+
+commands: 
+  fh:
+   description: Menu FeedAndHealUI
