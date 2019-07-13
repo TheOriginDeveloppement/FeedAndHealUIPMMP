@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TheOriginDeveloppement/FeedAndHealUIPMMP
+branches:
+- master
+projects:
+  FeedAndHealUIPMMP:
+    path: ""
+...
